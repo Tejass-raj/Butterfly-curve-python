@@ -86,7 +86,7 @@ python main.py
 
 ## 📸 Output
 
-*Add a screenshot or GIF of the butterfly animation here.*
+TBD
 
 
 ## 🔮 Future Improvements
