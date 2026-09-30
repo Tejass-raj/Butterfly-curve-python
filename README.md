@@ -88,13 +88,6 @@ python main.py
 
 *Add a screenshot or GIF of the butterfly animation here.*
 
-Example:
-
-```
-assets/butterfly-animation.gif
-```
-
----
 
 ## 🔮 Future Improvements
 
